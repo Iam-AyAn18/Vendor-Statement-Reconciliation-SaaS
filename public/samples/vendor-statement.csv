@@ -1,0 +1,11 @@
+invoiceId,amount,date,description,vendor
+INV-001,1500.00,2024-01-15,Website Development,TechCorp Inc
+INV-002,2300.50,2024-01-18,Cloud Hosting Services,CloudServe LLC
+INV-003,850.00,2024-01-20,Graphic Design,DesignPro
+INV-004,3200.00,2024-01-22,Software License,SoftwarePlus
+INV-005,1200.00,2024-01-25,Consulting Services,ConsultGroup
+INV-006,950.75,2024-01-28,Marketing Materials,PrintShop
+INV-007,4500.00,2024-02-01,Development Sprint,DevTeam
+INV-008,1800.00,2024-02-05,SEO Services,MarketingHub
+INV-009,2100.00,2024-02-08,Database Management,DataSystems
+INV-010,1500.00,2024-02-10,UI/UX Design,DesignStudio
