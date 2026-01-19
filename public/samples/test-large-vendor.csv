@@ -1,0 +1,52 @@
+invoiceId,amount,date,description,vendor
+INV-1001,1250.00,2024-03-01,Software Development Services,TechCorp Solutions
+INV-1002,3500.50,2024-03-02,Cloud Infrastructure Setup,CloudTech LLC
+INV-1003,875.25,2024-03-03,Logo Design & Branding,Creative Studio
+INV-1004,2200.00,2024-03-04,Annual Software License,SoftPro Inc
+INV-1005,1500.75,2024-03-05,Marketing Campaign Q1,MarketGenius
+INV-1006,950.00,2024-03-06,Print Materials & Flyers,PrintMasters
+INV-1007,4750.00,2024-03-07,Development Sprint 1,DevTeam Pro
+INV-1008,1900.00,2024-03-08,SEO & Content Strategy,Digital Marketing Hub
+INV-1009,2250.00,2024-03-09,Database Migration Services,DataSys Corp
+INV-1010,1600.00,2024-03-10,UI/UX Design Phase 1,Design Studios
+INV-1011,2800.00,2024-03-11,Consulting Services Q1,Business Advisors
+INV-1012,3200.50,2024-03-12,Mobile App Development,AppWorks Inc
+INV-1013,1100.00,2024-03-13,Security Audit,SecureIT Solutions
+INV-1014,2500.00,2024-03-14,API Integration Services,IntegrateNow
+INV-1015,1850.75,2024-03-15,Email Marketing Setup,MailPro Systems
+INV-1016,990.00,2024-03-16,Social Media Management,SocialBoost
+INV-1017,4200.00,2024-03-17,E-commerce Platform,ShopTech Solutions
+INV-1018,1750.00,2024-03-18,Payment Gateway Integration,PaymentPro
+INV-1019,2100.00,2024-03-19,Customer Support System,SupportDesk Inc
+INV-1020,1500.00,2024-03-20,Analytics Dashboard,DataViz Pro
+INV-1021,3300.00,2024-03-21,Backend Infrastructure,ServerTech LLC
+INV-1022,1425.50,2024-03-22,Video Production Services,MediaWorks
+INV-1023,2650.00,2024-03-23,CRM Implementation,SalesTech Solutions
+INV-1024,1890.00,2024-03-24,Training & Documentation,LearnPro
+INV-1025,2200.00,2024-03-25,Quality Assurance Testing,TestLab Inc
+INV-1026,1150.00,2024-03-26,Legal Consultation,LegalAdvisors LLC
+INV-1027,3750.00,2024-03-27,Enterprise Architecture,ArchTech Solutions
+INV-1028,1625.00,2024-03-28,Network Security Setup,NetSecure Pro
+INV-1029,2450.00,2024-03-29,Business Intelligence Tools,BI Systems
+INV-1030,1775.00,2024-03-30,Project Management Tools,ProjectPro
+INV-1031,3100.00,2024-03-31,Data Warehouse Setup,DataWarehouse Inc
+INV-1032,1950.00,2024-04-01,Backup & Recovery Services,BackupPro LLC
+INV-1033,2350.00,2024-04-02,Load Balancing Services,LoadTech Solutions
+INV-1034,1680.00,2024-04-03,Monitoring & Alerting,MonitorSys
+INV-1035,2900.00,2024-04-04,DevOps Implementation,DevOps Masters
+INV-1036,1550.00,2024-04-05,Content Management System,CMSPro Inc
+INV-1037,3450.00,2024-04-06,Blockchain Integration,BlockTech LLC
+INV-1038,1825.00,2024-04-07,AI/ML Consulting,AIExperts Corp
+INV-1039,2550.00,2024-04-08,IoT Platform Setup,IoTSolutions
+INV-1040,1700.00,2024-04-09,Chatbot Development,BotBuilders Inc
+INV-1041,3650.00,2024-04-10,Microservices Architecture,MicroTech Solutions
+INV-1042,1925.00,2024-04-11,API Documentation,DocuMasters
+INV-1043,2750.00,2024-04-12,Performance Optimization,SpeedTech LLC
+INV-1044,1575.00,2024-04-13,Compliance Audit,CompliancePro
+INV-1045,3250.00,2024-04-14,Digital Transformation,TransformIT Inc
+INV-1046,1875.00,2024-04-15,User Acceptance Testing,UATExperts
+INV-1047,2850.00,2024-04-16,Disaster Recovery Plan,DisasterTech
+INV-1048,1650.00,2024-04-17,Web Accessibility Audit,AccessPro LLC
+INV-1049,3550.00,2024-04-18,System Integration,IntegrationMasters
+INV-1050,1975.00,2024-04-19,Technical Writing,TechDocs Inc
+INV-1051,2950.00,2024-04-20,Agile Coaching,AgileExperts LLC
