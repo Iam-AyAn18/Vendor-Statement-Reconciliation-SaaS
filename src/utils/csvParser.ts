@@ -15,7 +15,7 @@ export const parseCSV = (file: File): Promise<UploadedFile> => {
           const columns = results.meta.fields || [];
           
           // Map CSV rows to Transaction objects
-          const data: Transaction[] = results.data.map((row: any) => {
+          const data: Transaction[] = (results.data as Record<string, unknown>[]).map((row) => {
             // Find invoice ID field (case-insensitive, handle variations)
             const invoiceIdKey = Object.keys(row).find(key => 
               key.toLowerCase().replace(/[_\s]/g, '') === 'invoiceid'
@@ -41,8 +41,8 @@ export const parseCSV = (file: File): Promise<UploadedFile> => {
               invoiceId: String(row[invoiceIdKey] || '').trim(),
               amount: amount,
               date: String(row[dateKey] || '').trim(),
-              description: row.description || row.Description || '',
-              vendor: row.vendor || row.Vendor || '',
+              description: String(row.description || row.Description || ''),
+              vendor: String(row.vendor || row.Vendor || ''),
               ...row // Include all other fields
             };
           });
@@ -56,12 +56,12 @@ export const parseCSV = (file: File): Promise<UploadedFile> => {
             columns: columns,
             data: validData
           });
-        } catch (error) {
+        } catch {
           reject(new Error('Failed to parse CSV data'));
         }
       },
-      error: (error) => {
-        reject(new Error(`CSV parsing error: ${error.message}`));
+      error: (parseError) => {
+        reject(new Error(`CSV parsing error: ${parseError.message}`));
       }
     });
   });
