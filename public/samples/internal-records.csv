@@ -1,0 +1,11 @@
+invoiceId,amount,date,description
+INV-001,1500.00,2024-01-15,Website Development Payment
+INV-002,2300.50,2024-01-18,Cloud Hosting Jan 2024
+INV-003,850.00,2024-01-20,Design Work - Logo
+INV-004,3250.00,2024-01-22,Software License Annual
+INV-006,950.75,2024-01-28,Marketing Print Materials
+INV-007,4500.00,2024-02-01,Development Sprint 1
+INV-008,1800.00,2024-02-05,SEO Optimization
+INV-009,2100.00,2024-02-08,Database Setup & Config
+INV-010,1500.00,2024-02-10,UI/UX Design Services
+INV-011,2500.00,2024-02-12,Additional Services
