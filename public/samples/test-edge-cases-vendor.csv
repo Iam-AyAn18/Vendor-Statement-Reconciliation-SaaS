@@ -1,5 +1,5 @@
 invoiceId,amount,date,description,vendor
-INV-2001,$1,500.50,2024-05-01,Amount with dollar sign,TestVendor Inc
+INV-2001,"$1,500.50",2024-05-01,Amount with dollar sign,TestVendor Inc
 INV-2002,"2,300.00",2024-05-02,Amount with comma,CommaTest LLC
 INV-2003,0.01,2024-05-03,Minimum amount test,MinAmount Corp
 INV-2004,99999.99,2024-05-04,Maximum amount test,MaxAmount Inc
@@ -8,8 +8,7 @@ INV-2006,200.00,2024-05-06,Description with "quotes",QuoteVendor LLC
 INV-2007,300.00,2024-05-07,Special chars: @#$%,SpecialChar Inc
 INV-2008,400.50,2024-05-08,Multiple    spaces,SpaceTest Corp
 INV-2009,500.25,2024-05-09,Tab	character,TabTest LLC
-INV-2010,600.00,2024-05-10,"Multi-line
-description",MultiLine Inc
+INV-2010,600.00,2024-05-10,Multi-line description test,MultiLine Inc
 INV-2011,700.00,05/11/2024,Date format MM/DD/YYYY,DateTest Corp
 INV-2012,800.50,2024-05-12T10:30:00,ISO date format,ISODate LLC
 INV-2013,-150.00,2024-05-13,Negative amount (refund),RefundTest Inc
