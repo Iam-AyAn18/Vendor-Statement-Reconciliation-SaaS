@@ -101,7 +101,13 @@ INV-001,1500.00,2024-01-15,Website Development,TechCorp Inc
 INV-002,2300.50,2024-01-18,Cloud Hosting Services,CloudServe LLC
 ```
 
-Sample CSV files are provided in `public/samples/` for testing.
+Multiple sample CSV files are provided in `public/samples/` for testing:
+- **Basic samples**: `vendor-statement.csv` and `internal-records.csv` (10 records each)
+- **Large dataset**: `test-large-*.csv` (50+ records) - for performance testing
+- **Edge cases**: `test-edge-cases-*.csv` (30+ records) - special characters, formats, and edge cases
+- **Perfect match**: `test-perfect-match-*.csv` (10 records) - 100% match scenario
+
+See `public/samples/README.md` for detailed documentation of all test files.
 
 ## 🔄 How Reconciliation Works
 

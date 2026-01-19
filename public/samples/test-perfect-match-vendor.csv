@@ -1,0 +1,11 @@
+invoiceId,amount,date,description,vendor
+INV-3001,1000.00,2024-06-01,Website Design Services,WebDesign Co
+INV-3002,1500.00,2024-06-02,Logo Creation,Creative Studio
+INV-3003,2000.00,2024-06-03,Mobile App Development,AppDev Inc
+INV-3004,2500.00,2024-06-04,Database Setup,DataSolutions LLC
+INV-3005,3000.00,2024-06-05,Cloud Migration,CloudTech Corp
+INV-3006,3500.00,2024-06-06,Security Implementation,SecureIT
+INV-3007,4000.00,2024-06-07,API Development,APIBuilders
+INV-3008,4500.00,2024-06-08,Frontend Development,FrontendPro
+INV-3009,5000.00,2024-06-09,Backend Development,BackendExperts
+INV-3010,5500.00,2024-06-10,DevOps Setup,DevOpsMasters

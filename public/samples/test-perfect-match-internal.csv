@@ -1,0 +1,11 @@
+invoiceId,amount,date,description
+INV-3001,1000.00,2024-06-01,Website Design Payment
+INV-3002,1500.00,2024-06-02,Logo Creation Payment
+INV-3003,2000.00,2024-06-03,Mobile App Payment
+INV-3004,2500.00,2024-06-04,Database Setup Payment
+INV-3005,3000.00,2024-06-05,Cloud Migration Payment
+INV-3006,3500.00,2024-06-06,Security Payment
+INV-3007,4000.00,2024-06-07,API Development Payment
+INV-3008,4500.00,2024-06-08,Frontend Payment
+INV-3009,5000.00,2024-06-09,Backend Payment
+INV-3010,5500.00,2024-06-10,DevOps Payment
